@@ -1,4 +1,5 @@
-# K8s Kind Voting App
+# Cloud-Native-Kubernetes-Voting-Application
+
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
@@ -31,11 +32,11 @@ This guide covers the steps to:
 
 
 
-## Resume Description
 
 ### Project Title: 
 
-Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
+
+Cloud-Native-Kubernetes-Voting-Application
 
 ### Description: 
 
